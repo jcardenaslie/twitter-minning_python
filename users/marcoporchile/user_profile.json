@@ -1,0 +1,110 @@
+{
+    "id": 19003727,
+    "id_str": "19003727",
+    "name": "Marco Enr\u00edquez-O",
+    "screen_name": "marcoporchile",
+    "location": "Chile",
+    "profile_location": null,
+    "description": "Twitter oficial de Marco Enr\u00edquez-Ominami. Candidato presidencial. Progresista. Casado con @Karendtv y pap\u00e1 de Fernanda y Manuela. Construyamos juntos el cambio",
+    "url": "https://t.co/gzf5ErwxQU",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/gzf5ErwxQU",
+                    "expanded_url": "http://www.marcoenriquezominami.cl",
+                    "display_url": "marcoenriquezominami.cl",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 647625,
+    "friends_count": 50108,
+    "listed_count": 3168,
+    "created_at": "Thu Jan 15 00:36:10 +0000 2009",
+    "favourites_count": 8430,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 68096,
+    "lang": "es",
+    "status": {
+        "created_at": "Thu Oct 19 03:38:01 +0000 2017",
+        "id": 920856537282859009,
+        "id_str": "920856537282859009",
+        "text": "\ud83c\udde8\ud83c\uddf1#MarcoEnValparaiso | A cualquier hora y en todo Chile estar\u00e9 con l@s profesor@s para buscar una mejor educaci\u00f3n.\u2026 https://t.co/3nx2PtAbiw",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MarcoEnValparaiso",
+                    "indices": [
+                        2,
+                        20
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3nx2PtAbiw",
+                    "expanded_url": "https://twitter.com/i/web/status/920856537282859009",
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EEEEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/603520524/g0p8jxgaomnm9zv151em.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/603520524/g0p8jxgaomnm9zv151em.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920742070930853890/YWR4wR9q_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920742070930853890/YWR4wR9q_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/19003727/1505910759",
+    "profile_link_color": "DB0025",
+    "profile_sidebar_border_color": "2A71BD",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "4D4D4D",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}

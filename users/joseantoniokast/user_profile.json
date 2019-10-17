@@ -1,0 +1,203 @@
+{
+    "id": 123955962,
+    "id_str": "123955962",
+    "name": "Jos\u00e9 Antonio Kast \u270c",
+    "screen_name": "joseantoniokast",
+    "location": "Chile.",
+    "profile_location": null,
+    "description": "Candidato independiente a la Presidencia de Chile. Diputado por La Reina - Pe\u00f1alol\u00e9n. Casado, 9 hijos. Abogado.",
+    "url": "https://t.co/wG61Hm5vyK",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/wG61Hm5vyK",
+                    "expanded_url": "http://www.kast.cl",
+                    "display_url": "kast.cl",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 147702,
+    "friends_count": 73375,
+    "listed_count": 705,
+    "created_at": "Wed Mar 17 19:28:50 +0000 2010",
+    "favourites_count": 664,
+    "utc_offset": -10800,
+    "time_zone": "Santiago",
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 13541,
+    "lang": "es",
+    "status": {
+        "created_at": "Thu Oct 19 01:49:07 +0000 2017",
+        "id": 920829128395411458,
+        "id_str": "920829128395411458",
+        "text": "RT @EquipoKast: Termina la jornada con la entrevista a nuestro candidato @joseantoniokast hoy en @SERANOTICIA de Radio @infinitafm https://\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "EquipoKast",
+                    "name": "Equipo Kast \u270c\ud83c\udffc",
+                    "id": 738092057873555456,
+                    "id_str": "738092057873555456",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "joseantoniokast",
+                    "name": "Jos\u00e9 Antonio Kast \u270c",
+                    "id": 123955962,
+                    "id_str": "123955962",
+                    "indices": [
+                        73,
+                        89
+                    ]
+                },
+                {
+                    "screen_name": "SERANOTICIA",
+                    "name": "SER\u00c1 NOTICIA",
+                    "id": 63829941,
+                    "id_str": "63829941",
+                    "indices": [
+                        97,
+                        109
+                    ]
+                },
+                {
+                    "screen_name": "infinitafm",
+                    "name": "Radio Infinita",
+                    "id": 70801596,
+                    "id_str": "70801596",
+                    "indices": [
+                        119,
+                        130
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Oct 19 01:48:14 +0000 2017",
+            "id": 920828907523371009,
+            "id_str": "920828907523371009",
+            "text": "Termina la jornada con la entrevista a nuestro candidato @joseantoniokast hoy en @SERANOTICIA de Radio @infinitafm https://t.co/wSDWGHOsna",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "joseantoniokast",
+                        "name": "Jos\u00e9 Antonio Kast \u270c",
+                        "id": 123955962,
+                        "id_str": "123955962",
+                        "indices": [
+                            57,
+                            73
+                        ]
+                    },
+                    {
+                        "screen_name": "SERANOTICIA",
+                        "name": "SER\u00c1 NOTICIA",
+                        "id": 63829941,
+                        "id_str": "63829941",
+                        "indices": [
+                            81,
+                            93
+                        ]
+                    },
+                    {
+                        "screen_name": "infinitafm",
+                        "name": "Radio Infinita",
+                        "id": 70801596,
+                        "id_str": "70801596",
+                        "indices": [
+                            103,
+                            114
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/wSDWGHOsna",
+                        "expanded_url": "https://youtu.be/-rd99dbC_Ho",
+                        "display_url": "youtu.be/-rd99dbC_Ho",
+                        "indices": [
+                            115,
+                            138
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 34,
+            "favorite_count": 35,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 34,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/98279314/fondo_twiter.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/98279314/fondo_twiter.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/910964386927304704/W1eLmLTX_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/910964386927304704/W1eLmLTX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/123955962/1507746384",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}

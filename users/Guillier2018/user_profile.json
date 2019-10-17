@@ -1,0 +1,142 @@
+{
+    "id": 904009664953769984,
+    "id_str": "904009664953769984",
+    "name": "PresidenteDeLaGente",
+    "screen_name": "Guillier2018",
+    "location": "Chile \ud83c\udde8\ud83c\uddf1",
+    "profile_location": null,
+    "description": "Cuenta de la Campa\u00f1a Presidencial de Alejandro Guillier 2018.",
+    "url": "https://t.co/mcHT1Pi5lZ",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/mcHT1Pi5lZ",
+                    "expanded_url": "http://www.alejandroguillier.cl",
+                    "display_url": "alejandroguillier.cl",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 2292,
+    "friends_count": 328,
+    "listed_count": 11,
+    "created_at": "Sat Sep 02 15:54:34 +0000 2017",
+    "favourites_count": 67,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 432,
+    "lang": "es",
+    "status": {
+        "created_at": "Thu Oct 19 01:30:52 +0000 2017",
+        "id": 920824539554156544,
+        "id_str": "920824539554156544",
+        "text": "RT @NublexGuillier: BANDERAZO X GUILLIER!!!\nJueves 19 de octubre. 17:30 hrs. Frontis Gobernaci\u00f3n.\nSigamos construyendo historia con #ElPres\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "NublexGuillier",
+                    "name": "\u00d1uble X Guillier",
+                    "id": 791666293741129728,
+                    "id_str": "791666293741129728",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Oct 19 01:25:08 +0000 2017",
+            "id": 920823093127413760,
+            "id_str": "920823093127413760",
+            "text": "BANDERAZO X GUILLIER!!!\nJueves 19 de octubre. 17:30 hrs. Frontis Gobernaci\u00f3n.\nSigamos construyendo historia con\u2026 https://t.co/nTRrmSVc8M",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/nTRrmSVc8M",
+                        "expanded_url": "https://twitter.com/i/web/status/920823093127413760",
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 23,
+            "favorite_count": 21,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/904339340561707008/9qnKRYZj_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/904339340561707008/9qnKRYZj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/904009664953769984/1504446276",
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}

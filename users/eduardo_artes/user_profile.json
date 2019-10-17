@@ -1,0 +1,183 @@
+{
+    "id": 765266725029998592,
+    "id_str": "765266725029998592",
+    "name": "Eduardo Art\u00e9s",
+    "screen_name": "eduardo_artes",
+    "location": "Santiago, Chile",
+    "profile_location": null,
+    "description": "Candidato Presidencial a la Rep\u00fablica de Chile 2017. Presidente de @chile_upa, Profesor. \nPor un Chile democr\u00e1tico, popular y soberano.",
+    "url": "https://t.co/SiVYOBSfyZ",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/SiVYOBSfyZ",
+                    "expanded_url": "http://www.unionpatriotica.cl",
+                    "display_url": "unionpatriotica.cl",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 1690,
+    "friends_count": 160,
+    "listed_count": 20,
+    "created_at": "Mon Aug 15 19:19:40 +0000 2016",
+    "favourites_count": 88,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 193,
+    "lang": "es",
+    "status": {
+        "created_at": "Wed Oct 04 00:06:59 +0000 2017",
+        "id": 915367607758458880,
+        "id_str": "915367607758458880",
+        "text": "RT @uchile: Respuesta de @eduardo_artes en #debateUchile: es importante que no se vea s\u00f3lo a la educaci\u00f3n como lo que pasa en el aula, y es\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "debateUchile",
+                    "indices": [
+                        43,
+                        56
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "uchile",
+                    "name": "Universidad de Chile",
+                    "id": 7666852,
+                    "id_str": "7666852",
+                    "indices": [
+                        3,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "eduardo_artes",
+                    "name": "Eduardo Art\u00e9s",
+                    "id": 765266725029998592,
+                    "id_str": "765266725029998592",
+                    "indices": [
+                        25,
+                        39
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Oct 03 11:44:04 +0000 2017",
+            "id": 915180646972174336,
+            "id_str": "915180646972174336",
+            "text": "Respuesta de @eduardo_artes en #debateUchile: es importante que no se vea s\u00f3lo a la educaci\u00f3n como lo que pasa en e\u2026 https://t.co/X0m4plixt7",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "debateUchile",
+                        "indices": [
+                            31,
+                            44
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "eduardo_artes",
+                        "name": "Eduardo Art\u00e9s",
+                        "id": 765266725029998592,
+                        "id_str": "765266725029998592",
+                        "indices": [
+                            13,
+                            27
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/X0m4plixt7",
+                        "expanded_url": "https://twitter.com/i/web/status/915180646972174336",
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 915180329174011904,
+            "quoted_status_id_str": "915180329174011904",
+            "retweet_count": 9,
+            "favorite_count": 7,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 915180329174011904,
+        "quoted_status_id_str": "915180329174011904",
+        "retweet_count": 9,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/796097457671327744/zrZFFh0L_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/796097457671327744/zrZFFh0L_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/765266725029998592/1501807927",
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
